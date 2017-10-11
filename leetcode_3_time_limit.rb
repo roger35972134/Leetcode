@@ -1,5 +1,6 @@
 # @param {String} s
 # @return {Integer}
+# ----------time limit-------------
 def length_of_longest_substring(s)    
     longest_length = 0
     for i in 0..s.length-1
