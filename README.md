@@ -1,3 +1,4 @@
 # Leetcode
 My practices on leetcode.com
-Using Language: <strong>Ruby<strong>
+<br>
+<strong>Using Language: Ruby<strong>
